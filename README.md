@@ -1,12 +1,12 @@
-# Tic-Tac-Toe Web Application
+# Stopwatch Web Application
 
-This project involves building a Tic-Tac-Toe web application using HTML, CSS, and JavaScript. The game is designed to be interactive and engaging, allowing users to play against each other or an AI opponent. Key features of the application include:
+This project is a Stopwatch web application built using HTML, CSS, and JavaScript. The application is designed to be interactive and user-friendly, providing accurate time measurement and lap recording. Key features include:
 
-- **User Interaction:**
-  - Implement functions to handle user clicks on the game board.
-  - Track the game state to determine whose turn it is.
+- **HTML Structure:** 
+  - HTML is used to structure the elements of the application, including the display, buttons, and lap time list.
 
-- **Game Logic:**
-  - Check for winning conditions to identify when a player has won by getting three markers in a row.
+- **Core Functionality:**
+  - Implement functions to start, pause, and reset the stopwatch.
+  - Track and display lap times, allowing users to measure and record time intervals.
 
-Using these technologies and functionalities, the Tic-Tac-Toe game provides a fun and competitive experience for players.
+By combining these technologies and functionalities, the Stopwatch web application offers a simple yet effective tool for time management.
